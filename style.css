@@ -456,7 +456,7 @@ h2 {
   font-size: 16px;
 }
 .contact form i {
-  color: white;
+  color: var(--black1);
   padding: 20px;
   text-decoration: none;
    cursor: pointer;
