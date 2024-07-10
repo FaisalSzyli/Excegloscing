@@ -101,14 +101,6 @@ body {
   text-align: start;
   white-space: nowrap;
 }
-
-.navigation ul li i {
-  color: white;
-  padding: 15px;
-  text-decoration: none;
-   cursor: pointer;
-}
-
 /* --------- curve outside ---------- */
 .navigation ul li:hover a::before,
 .navigation ul li.hovered a::before {
@@ -463,6 +455,13 @@ h2 {
   cursor: pointer;
   font-size: 16px;
 }
+.contact form i {
+  color: white;
+  padding: 20px;
+  text-decoration: none;
+   cursor: pointer;
+}
+
 
 /* ====================== Responsive Design ========================== */
 @media (max-width: 991px) {
