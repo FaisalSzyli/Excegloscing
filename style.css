@@ -102,6 +102,13 @@ body {
   white-space: nowrap;
 }
 
+.navigation ul li i {
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+   cursor: pointer;
+}
+
 /* --------- curve outside ---------- */
 .navigation ul li:hover a::before,
 .navigation ul li.hovered a::before {
